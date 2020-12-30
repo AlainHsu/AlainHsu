@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.cn/in/alain-hsu-cn/">
   <img align="left" alt="Alain's | Linkedin" width="36px" height="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://stackoverflow.com/users/6233187/alain">
   <img align="left" alt="Alain's Stack Overflow" width="36px" height="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
 </a>
 
