@@ -11,10 +11,10 @@
 </a>
 
 <br />
+<br />
+<br />
 
 I work as a mobile application developer with project management skills. I'm based in Shenzhen, China 🇨🇳.
-
-<br />
 
 **Talking about Personal Stuffs:**
 
