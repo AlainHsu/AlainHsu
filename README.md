@@ -19,9 +19,9 @@ I work as a mobile application developer with project management skills. I'm bas
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on **[Tymphany](https://www.tymphany.com/)**
-- 🌱 I’m currently learning SwiftUI, AWS
-- 👯 I’m looking to collaborate on side project
-- 🤔 I’m looking for help with Algorithm😭
+- 🌱 I’m currently learning **Swift**
+- 👯 I’m looking to collaborate on **IELTS**
+- 🤔 I’m looking for help with **Algorithm**
 - 📫 How to reach me: alain.hsu@outlook.com
 
 <br />
