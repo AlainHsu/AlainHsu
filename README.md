@@ -14,14 +14,15 @@
 <br />
 <br />
 
-I work as a mobile application developer with project management skills. I'm based in Shenzhen, China 🇨🇳.
+I am a mobile developer with iOS and Flutter skills. I have some experience in Audio and Bluetooth development. I'm based in Shenzhen, China 🇨🇳.
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on **[Tymphany](https://www.tymphany.com/)**
-- 🌱 I’m currently learning **Swift**
-- 👯 I’m looking to collaborate on **IELTS**
-- 🤔 I’m looking for help with **Algorithm**
+- 🔭 I’m currently working on **[AIMA](http://aima-electric.com/)**, an e-bike company. I am responsible for the mobile App development of the company IoT platform.
+- 📚 I’m currently learning **Backend**, **Database** and also **Algorithm**.
+- 💡 I'm currently learning to become a Full-stack developer and i would like to work remotely in the future. 
+- ❤️ I’m interesting in 🏊🏻🚵‍♂️🛹🎾🎸
+- 🤔 I’m looking for collaboration on exciting projects that out of my comfort zone. 
 - 📫 How to reach me: alain.hsu@outlook.com
 
 <br />
