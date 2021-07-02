@@ -19,10 +19,10 @@ I am a mobile developer with iOS and Flutter skills. I have some experience in A
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on **[AIMA](http://aima-electric.com/)**, an e-bike company. I am responsible for the mobile App development of the company IoT platform.
-- 📚 I’m currently learning **Backend**, **Database** and also **Algorithm**.
-- 💡 I'm currently learning to become a Full-stack developer and i would like to work remotely in the future. 
+- 🤔 I'm thinking to become a **Full-stack** developer and  **work remotely** in the future.
+- 📚 I’m currently learning **back-end**, **Database** and **algorithm** knowledge.
 - ❤️ I’m interesting in 🏊🏻🚵‍♂️🛹🎾🎸
-- 🤔 I’m looking for collaboration on exciting projects that out of my comfort zone. 
+- 🤝 I’m looking for collaboration on learning English or participating in exciting projects that out of my comfort zone. 
 - 📫 How to reach me: alain.hsu@outlook.com
 
 <br />
