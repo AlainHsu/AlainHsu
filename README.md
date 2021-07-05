@@ -38,7 +38,7 @@ I am a mobile developer with iOS and Flutter skills. I have some experience in A
 
 <br />
 
-📈 My GitHub Stats
+**My GitHub Status:**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainHsu&show_icons=true&count_private=true)  
 
