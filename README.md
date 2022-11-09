@@ -19,7 +19,7 @@ I am a mobile developer with iOS and Flutter skills. I have some experience in A
 **Talking about Personal Stuffs:**
 
 - 🤔 I'm thinking to become a Full-stack developer and work remotely in the future.
-- 📚 I’m interested in new tech, considering to have systematic study in AI.
+- 📚 I’m interested in new tech, learning full stack web development now.
 - ❤️ I’m fond of outdoor sports like 🏊🏻🚵‍♂️🛹🎾🏂, i also like 🎸 althought i play it badly :)
 - 🤝 I’m looking for oppotunity on participating in exciting projects that out of my comfort zone. 
 - 📫 How to reach me: alain.hsu@outlook.com
