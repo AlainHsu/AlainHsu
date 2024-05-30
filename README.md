@@ -16,7 +16,7 @@
 - 🧑🏻‍💻 I am a mobile app developer with iOS and Flutter skills and I have many years of experience in IoT product development.
 - 🌍 I'm based in Shenzhen, China 🇨🇳.
 - 💡 I'm thinking to become a Full-stack developer and work remotely in the future.
-- 📱 I have a broad interest in technology, I'm currently playing on Home Assistant.🌎🌎🌎🌎🌍🌍🌎
+- 📱 I have a broad interest in technology, I'm currently playing on Home Assistant.
 - 👬 I’m looking for oppotunity on participating in exciting projects that out of my comfort zone. 
 - ☎️ How to reach me: alain.hsu@outlook.com
 
